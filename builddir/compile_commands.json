@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/samueljiang/workspace/practice-cpp/builddir",
+    "command": "c++ -Ihello.p -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -std=c++11 -g -MD -MQ hello.p/basic_hello.cpp.o -MF hello.p/basic_hello.cpp.o.d -o hello.p/basic_hello.cpp.o -c ../basic/hello.cpp",
+    "file": "../basic/hello.cpp",
+    "output": "hello.p/basic_hello.cpp.o"
+  }
+]
